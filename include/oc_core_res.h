@@ -113,6 +113,7 @@ void oc_core_set_latency(int latency);
  */
 int oc_core_get_latency(void);
 
+
 #ifdef __cplusplus
 }
 #endif
